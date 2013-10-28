@@ -1,4 +1,4 @@
 tododb
 ======
 
-code for blog post on using Groovy, Spock and including Spring Context in tests to interact with database  
+Code for blog post 'Data access module using Groovy with Spock testing' on Ricston blog: http://ricston.com/blog
